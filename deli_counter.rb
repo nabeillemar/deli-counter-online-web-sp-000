@@ -5,7 +5,7 @@ def line
   #"The line is currently empty"
 end
 
-def take_a_number(katz_deli, "Name")
+def take_a_number(katz_deli, Name)
 end
 
 def now_serving
